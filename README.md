@@ -47,3 +47,7 @@ To ensure maximum security, this project is designed to be run without external 
 
 ## 🤝 Contributing
 Security-focused PRs, particularly those relating to strict memory management and vulnerability patching, are required.
+
+## ?? Future Roadmap & Enhancements
+- **Multilingual Classified OCR**
+- **ONNX or TensorRT quantization**
